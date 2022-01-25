@@ -53,7 +53,7 @@ PATCH /exams <br/>
 DELETE /exams <br/>
 (obs: apenas o dono do recurso pode acessar os dados do endpoint)
 
-O url base da API é
+O url base da API é https://api-eu-paciente.herokuapp.com/
 
 ## Rotas que não precisam de autenticação
 
