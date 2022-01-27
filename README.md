@@ -70,7 +70,9 @@ O url base da API é https://api-eu-paciente.herokuapp.com/
   "weight": 60,
   "height": 170,
   "gender": "female",
-  "bloodtype": "A+"
+  "bloodtype": "A+",
+  "Allergies": [],
+  "Illnesses": []
 }
 ```
 
@@ -91,6 +93,8 @@ Caso dê tudo certo, a resposta será assim:
     "height": 170,
     "gender": "female",
     "bloodtype": "A+",
+    "Allergies": [],
+    "Illnesses": []
     "id": 2
   }
 }
@@ -148,6 +152,8 @@ Caso dê tudo certo, a resposta será assim:
     "height": 170,
     "gender": "female",
     "bloodtype": "A+",
+    "Allergies": [],
+    "Illnesses": []
     "id": 2
   }
 }
