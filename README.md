@@ -173,6 +173,7 @@ Rotas que necessitam de autorização deve ser informado no cabeçalho da requis
   "date": "01/03/2022",
   "time": "15h",
   "contact": 99999999999,
+  "completed": false,
   "userId": 1
 }
 ```
@@ -183,7 +184,7 @@ Rotas que necessitam de autorização deve ser informado no cabeçalho da requis
 
 ```json
 {
-  "doctor": "Doutor Fulano"
+  "completed": true
 }
 ```
 
@@ -208,6 +209,7 @@ Requisição não necessita de body.
     "date": "01/03/2022",
     "time": "15h",
     "contact": 99999999999,
+    "completed": false,
     "userId": 1,
     "id": 1
   }
@@ -226,6 +228,7 @@ Requisição não necessita de body.
   "date": "01/03/2022",
   "time": "15h",
   "contact": 99999999999,
+  "completed": false,
   "userId": 1,
   "id": 1
 }
@@ -241,6 +244,7 @@ Requisição não necessita de body.
   "frequency": "diário",
   "time": "12h45",
   "function": "diminuir pressão",
+  "completed": false,
   "userId": 1
 }
 ```
@@ -251,7 +255,7 @@ Requisição não necessita de body.
 
 ```json
 {
-  "frequency": "semanal"
+  "completed": true
 }
 ```
 
@@ -276,6 +280,7 @@ Requisição não necessita de body.
     "frequency": "diário",
     "time": "12h45",
     "function": "diminuir pressão",
+    "completed": false,
     "userId": 1,
     "id": 2
   }
@@ -294,6 +299,7 @@ Requisição não necessita de body.
   "frequency": "diário",
   "time": "12h45",
   "function": "diminuir pressão",
+  "completed": false,
   "userId": 1,
   "id": 2
 }
@@ -308,6 +314,7 @@ Requisição não necessita de body.
   "type": "covid",
   "date": "01/03/2022",
   "nextshot": "01/03/2030",
+  "completed": false,
   "userId": 1
 }
 ```
@@ -318,7 +325,7 @@ Requisição não necessita de body.
 
 ```json
 {
-  "type": "influenza"
+  "completed": true
 }
 ```
 
@@ -342,6 +349,7 @@ Requisição não necessita de body.
     "type": "covid",
     "date": "01/03/2022",
     "nextshot": "01/03/2030",
+    "completed": false,
     "userId": 1,
     "id": 1
   }
@@ -359,6 +367,7 @@ Requisição não necessita de body.
   "type": "covid",
   "date": "01/03/2022",
   "nextshot": "01/03/2030",
+  "completed": false,
   "userId": 1,
   "id": 1
 }
@@ -373,6 +382,7 @@ Requisição não necessita de body.
   "type": "Raiox-x",
   "date": "01/03/2022",
   "link_to_image": "www.seila",
+  "completed": false,
   "userId": 1
 }
 ```
@@ -407,6 +417,7 @@ Requisição não necessita de body.
     "type": "Raiox-x",
     "date": "01/03/2022",
     "link_to_image": "www.seila",
+    "completed": false,
     "userId": 1,
     "id": 1
   }
@@ -424,6 +435,7 @@ Requisição não necessita de body.
   "type": "Raiox-x",
   "date": "01/03/2022",
   "link_to_image": "www.seila",
+  "completed": false,
   "userId": 1,
   "id": 1
 }
