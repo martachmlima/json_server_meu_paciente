@@ -21,6 +21,11 @@ Dois podem ser usados para efetuar o login:
 POST /login <br/>
 POST /signin<br/>
 
+Um para editar suas informações pessoais:
+
+PATCH /users <br/>
+(obs: apenas o dono do recurso pode acessar os dados do endpoint)
+
 Um para o usuário acessar, cadastrar e editar suas consultas:
 
 GET /appointments <br/>
@@ -53,7 +58,8 @@ PATCH /exams <br/>
 DELETE /exams <br/>
 (obs: apenas o dono do recurso pode acessar os dados do endpoint)
 
-O url base da API é https://api-eu-paciente.herokuapp.com/
+O url base da API é https://api-eu-paciente.herokuapp.com/ <br/>
+Link de download dos endpoints no insomnia é https://drive.google.com/file/d/1nVuHF-8C8iDnoTJ1ie-KueS6SdYVcYIT/view?usp=sharing
 
 ## Rotas que não precisam de autenticação
 
