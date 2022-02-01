@@ -58,6 +58,12 @@ PATCH /exams <br/>
 DELETE /exams <br/>
 (obs: apenas o dono do recurso pode acessar os dados do endpoint)
 
+Um para o usuário acessar todos os profissionais:
+
+GET /professionals <br/>
+GET /professionals_id <br/>
+(obs: apenas o usuário pode ler os dados do endpoint)
+
 O url base da API é https://api-eu-paciente.herokuapp.com/ <br/>
 Link de download dos endpoints no insomnia é https://drive.google.com/file/d/1nVuHF-8C8iDnoTJ1ie-KueS6SdYVcYIT/view?usp=sharing
 
@@ -450,5 +456,75 @@ Requisição não necessita de body.
   "completed": false,
   "userId": 1,
   "id": 1
+}
+```
+
+<h2 align ='center'> Busca por todos os profissionais</h2>
+
+Requisição não necessita de body.
+
+`GET /professionals - FORMATO DA RESPOSTA - STATUS 200`
+
+```json
+[
+	{
+		"name": "Dr. Paulo Kenzie",
+		"specialties": [
+			"Cirurgia Traumatológica",
+			"Fisiologia do Exercício"
+		],
+		"formations": [
+			"Pós Graduado em Fisiologia do Exercício pela Universidade Gama Filho",
+			"Pós Graduado em Treinamento Desportivo pela Universidade Gama Filho",
+			"Graduado em Nutrição pelas Faculdades Metropolitanas Unidas - FMU"
+		],
+		"contact": "99 9 9999-9999",
+		"workplace": [
+			{
+				"name": "Clinica Kenzie",
+				"Street": "Rua 13 de Maio",
+				"district": "Cantinho do Céu",
+				"city": "São Paulo",
+				"state": "SP",
+				"zip_code": "04849‑529"
+			}
+		],
+		"userId": 1,
+		"id": 1
+	}
+]
+```
+
+<h2 align ='center'> Busca por profissionais específicos</h2>
+
+Requisição não necessita de body.
+
+`GET /professionals/professionals_id - FORMATO DA RESPOSTA - STATUS 200`
+
+```json
+{
+	"name": "Dr. Paulo Kenzie",
+	"specialties": [
+		"Cirurgia Traumatológica",
+		"Fisiologia do Exercício"
+	],
+	"formations": [
+		"Pós Graduado em Fisiologia do Exercício pela Universidade Gama Filho",
+		"Pós Graduado em Treinamento Desportivo pela Universidade Gama Filho",
+		"Graduado em Nutrição pelas Faculdades Metropolitanas Unidas - FMU"
+	],
+	"contact": "99 9 9999-9999",
+	"workplace": [
+		{
+			"name": "Clinica Kenzie",
+			"Street": "Rua 13 de Maio",
+			"district": "Cantinho do Céu",
+			"city": "São Paulo",
+			"state": "SP",
+			"zip_code": "04849‑529"
+		}
+	],
+	"userId": 1,
+	"id": 1
 }
 ```
