@@ -3,5 +3,6 @@
   "appointments": 600,
   "medications": 600,
   "vaccines": 600,
-  "exams": 600
+  "exams": 600,
+  "professionals": 640
 }

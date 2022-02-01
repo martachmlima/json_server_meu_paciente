@@ -14,6 +14,7 @@ const rules = auth.rewriter({
   medications: 600,
   vaccines: 600,
   exams: 600,
+  professionals: 640,
 });
 
 app.use(cors());
