@@ -2,19 +2,15 @@
   "users": [
     {
       "email": "kenzinho@mail.com",
-      "password": "$2a$10$StYMysoPjiMiFA030XYZgO3rHnucicuWF4z2NqseqhK3lfSUTvfLW",
+      "password": 123456,
       "name": "Kenzinho",
-      "age": "30",
-      "gender": "undisclosed",
-      "bloodtype": "DoNotKnow",
+      "age": 30,
+      "gender": "male",
+      "bloodtype": "B+",
       "weight": 18,
       "height": 160,
-      "allergies": [
-        "Leite"
-      ],
-      "illnesses": [
-        "Diabetes"
-      ],
+      "allergies": ["Leite"],
+      "illnesses": ["Diabetes"],
       "id": 1
     }
   ],
@@ -72,10 +68,7 @@
   "professionals": [
     {
       "name": "Dr. Paulo Kenzie",
-      "specialties": [
-        "Cirurgia Traumatológica",
-        "Fisiologia do Exercício"
-      ],
+      "specialties": ["Cirurgia Traumatológica", "Fisiologia do Exercício"],
       "formations": [
         "Pós Graduado em Fisiologia do Exercício pela Universidade Gama Filho",
         "Pós Graduado em Treinamento Desportivo pela Universidade Gama Filho",
