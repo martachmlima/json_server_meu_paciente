@@ -94,6 +94,277 @@
       ],
       "userId": 1,
       "id": 1
+    },
+    {
+      "name": "Dra. Maria Kenzie",
+      "specialties": [
+        "Nutrição estética",
+        "Nutrição esportiva"
+      ],
+      "formations": [
+        "Pós Graduação em Nutrição Clínica Funcional",
+        "Pós Graduação em Nutrição esportiva"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Dra. Anastácia",
+      "specialties": [
+        "Diabetologia",
+        "Patologias da Tireoide"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica em Endocrinologia e Metabologia na UniKenzie"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "Dra. AnaCreuza",
+      "specialties": [
+        "Diabetologia",
+        "Patologias da Tireoide"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica em Endocrinologia e Metabologia na UniKenzie"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "name": "Dra. Juliana",
+      "specialties": [
+        "Diabetologia",
+        "Patologias da Tireoide"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica em Endocrinologia e Metabologia na UniKenzie"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "name": "Dr. Jorge",
+      "specialties": [
+        "Terapia de Casal",
+        "Psicoterapia Individual",
+        "Psicologia Clínica e da Saúde"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica em Terapia de casal e Psicoterapia individual na UniKenzie"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "name": "Dr. Paulo",
+      "specialties": [
+        "Terapia de Casal",
+        "Psicoterapia Individual",
+        "Psicologia Clínica e da Saúde"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica em Terapia de casal e Psicoterapia individual na UniKenzie"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "name": "Dr. Jeredy",
+      "specialties": [
+        "Terapia de Casal",
+        "Psicoterapia Individual",
+        "Psicologia Clínica e da Saúde"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica em Terapia de casal e Psicoterapia individual na UniKenzie"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "name": "Dr. Seu José",
+      "specialties": [
+        "Terapia de Casal",
+        "Psicoterapia Individual",
+        "Psicologia Clínica e da Saúde"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica em Terapia de casal e Psicoterapia individual na UniKenzie"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "name": "Dr. Seu José",
+      "specialties": [
+        "Cardiologia Ambulatorial",
+        "Cardiopatia Isquêmica",
+        "Exames e Diagnósticos"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica cardiologia"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 10
+    },
+    {
+      "name": "Dr. Paulo",
+      "specialties": [
+        "Cardiologia Ambulatorial",
+        "Cardiopatia Isquêmica",
+        "Exames e Diagnósticos"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica cardiologia"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 11
+    },
+    {
+      "name": "Dra. Ana Maria",
+      "specialties": [
+        "Cardiologia Ambulatorial",
+        "Cardiopatia Isquêmica",
+        "Exames e Diagnósticos"
+      ],
+      "formations": [
+        "Graduação Medicina na UniKenzie",
+        "Residência Médica cardiologia"
+      ],
+      "contact": "99 9 9999-9999",
+      "workplace": [
+        {
+          "name": "Clinica NutriKenzie",
+          "Street": "Rua 13 de Maio",
+          "district": "Cantinho do Céu",
+          "city": "São Paulo",
+          "state": "SP",
+          "zip_code": "04849‑529"
+        }
+      ],
+      "userId": 1,
+      "id": 12
     }
   ]
 }
